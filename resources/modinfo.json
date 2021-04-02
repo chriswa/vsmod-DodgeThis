@@ -1,0 +1,12 @@
+{
+  "type": "code",
+  "side": "Server",
+  "modid": "dodgethis",
+  "name": "DodgeThis",
+  "authors": [ "goxmeor" ],
+  "description": "Power up enemy melee attacks.",
+  "version": "0.1.0",
+  "dependency": {
+    "game": ""
+  }
+}
