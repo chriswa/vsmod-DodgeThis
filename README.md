@@ -1,8 +1,18 @@
 # vsmod-DodgeThis
 
-Are you finding it a little too easy to kite drifters by dancing out of their attack range as soon as they start swinging their big, slow arms?
+This mod makes several tweaks to make combat more challenging (and reasonable.)
 
-This mod makes melee combat more difficult by randomizing attack animation timing (between 1-4 times faster,) while also providing a range bonus after starting an attack.
+## Faster, Randomized Attack Timings
+
+Ever noticed that drifters take over half a second to hit you once they raise their arm? With a little practice, you can time your movements to avoid their attacks almost every time. This change randomizes the timing on all enemy attacks to be between normal speed and 2.5x faster.
+
+## Longer Rangle Melee Follow-through
+
+In vanilla, enemies will happily start an attack when they are almost out of range. If you are moving away from them, it's unlikely they will be able to hit you at all. This change adds a 25% range bonus to attacks, once the attack has been started.
+
+## Enemies Can Swim
+
+When you swim, you get a momentary boost of speed every 2 seconds. This change gives the same boost to enemies, which makes them substantially faster (and more unpredictable) in the water.
 
 ## Work In Progress
 

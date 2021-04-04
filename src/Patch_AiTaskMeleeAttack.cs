@@ -19,7 +19,7 @@ namespace DodgeThis {
 
   [HarmonyPatch(typeof(AiTaskMeleeAttack))]
   [HarmonyPatch("LoadConfig")]
-  public class Patch__ {
+  public class Patch_AiTaskMeleeAttack_LoadConfig {
     static void Postfix(
       AiTaskMeleeAttack __instance,
       ref int ___attackDurationMs,
